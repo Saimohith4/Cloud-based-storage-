@@ -42,7 +42,6 @@ This project follows a **Minimum Viable Product (MVP)** approach and implements 
 - No authentication required for shared links
 
 ### 🎨 User Interface
-- Google Drive–like UI experience
 - Clean and responsive layout
 - Context menu actions (⋮ menu)
 - Preview modal for files
