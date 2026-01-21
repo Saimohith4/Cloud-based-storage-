@@ -1,6 +1,6 @@
 # ☁️ Cloud-Based Storage Service
 
-A secure, cloud-based file storage web application inspired by Google Drive.  
+A secure, cloud-based file storage web application. 
 This project allows users to upload, manage, preview, star, delete, restore, and share files through a modern web interface.
 
 ---
